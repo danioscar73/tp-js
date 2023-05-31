@@ -1,0 +1,39 @@
+ #title-conf {
+   color:  #f7f2f8 ;
+   font-size: 2vw;
+}
+
+#nav-it{
+   color: #babcbd;
+   font-size: 1.3vw;
+}
+
+ #cars{ 
+
+    margin-left: 20%;
+    margin-right: 20%;
+ }
+
+ #footer {
+  
+   width: 100%; 
+   background-color:  #214d67;  
+   padding: 0.5%;
+   color: azure;
+   
+}
+#footer a{
+
+  color: white;
+
+}
+
+#formulario{
+
+   margin-left: 20%;
+   margin-right: 20%;
+}
+
+.button {
+   width: 50%;
+}
